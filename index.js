@@ -16,7 +16,6 @@ convertBtn.addEventListener("click", function(){
     lengthm()
     volume()
     mass()
-    inputEl.focus()
     
 })
 
