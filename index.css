@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 5px;
-    height: auto;
+    height: 100%;
 }
 
 .container{
@@ -22,7 +22,8 @@ body{
     overflow-y: auto;
     box-shadow: 0 3px 5px rgba(0,0,0,2);
     margin-top: 25px; 
-    margin-bottom: 25px;           
+    margin-bottom: 25px;  
+    height: 80dvh;         
 }
 
 .hero{
@@ -137,7 +138,6 @@ input::-webkit-outer-spin-button{
     justify-content: center;
 }
 body{
-   min-height: 180dvh;
    justify-content: center;
     align-items: center;
 }
