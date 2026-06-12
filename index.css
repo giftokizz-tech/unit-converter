@@ -20,9 +20,9 @@ body{
     border-radius: 10px;
     border: 5px solid white;
     overflow-y: auto;
-    box-shadow: 0 3px 5px rgba(0,0,0,2);
+    box-shadow: 0 3px 5px black;
     margin-top: 25px; 
-    margin-bottom: 25px;  
+    margin-bottom: 26px;  
     height: 100dvh;         
 }
 
@@ -80,7 +80,7 @@ background: #f4f4f4;
     margin-bottom: 16px;
     text-align: center;
     border-radius: 6px;
-    box-shadow: 1px 1px 3px 0 rgb(5, 5, 5);
+    box-shadow: 1px 1px 3px 0 black;
 }
 .card  p{
     margin: 10px;
